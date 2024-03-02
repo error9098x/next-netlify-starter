@@ -1,1 +1,2 @@
 /title/:imdbId/*    https://vidsrc.xyz/embed/:imdbId    301
+www.imdbx.netlify.app/*    https://imdbx.netlify.app/:splat    301!
